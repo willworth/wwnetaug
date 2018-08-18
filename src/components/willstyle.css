@@ -1,0 +1,17 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+body {
+
+background-color: #ccdad1;
+}
+a {
+
+    color: #7a542e;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-weight: bold;
+    /* font-size: 1.2em; */
+}
