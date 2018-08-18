@@ -5,8 +5,9 @@ import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>This is a first draft</h1>
+    <h1>This is all a first draft</h1>
     <p>You've reached my new site.  Welcome.  Thanks for coming.</p>
+    <p>“To practice any art, no matter how well or badly, is a way to make your soul grow. So do it.” Kurt Vonnegut </p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JFtiUm9SUvQ?rel=0"
      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     
