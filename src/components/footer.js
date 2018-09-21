@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 const Footer = ({ siteTitle }) => (
   <div
     style={{
-      background: '#33261d',
+      background: '#121113',
     }}
   >
     <div

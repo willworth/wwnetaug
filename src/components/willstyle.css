@@ -6,11 +6,12 @@ html {
 
 body {
 
-background-color: #ccdad1;
+background-color: #040f16;
+color: #9da2ab;
 }
 a {
 
-    color: #7a542e;
+    color: #0094c6;
     /* font-family: 'Courier New', Courier, monospace; */
     font-weight: bold;
     /* font-size: 1.2em; */

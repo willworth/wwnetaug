@@ -5,13 +5,13 @@ import Layout from '../components/layout'
 
 const Contact = () => (
   <Layout>
-    <h1>Hi</h1>
+    <h1>Hi...</h1>
     <p>There's <a href="https://twitter.com/willworth">twitter</a></p>
     <p>and <a href="https://www.youtube.com/user/WillWorthMusic">youtube</a> (I would love you to subscribe, lots of video coming)</p>
     <p>and <a href="http://www.instagram.com/will.worth">instagram</a>.</p>
 
 
-  <p>There's even a <a href="https://www.facebook.com/willworthmusic">facebook page </a>(though I haven't posted in a while and would prefer not to rely on it to be in touch with you.)</p> 
+  <p>There's even a <a href="https://www.facebook.com/willworthmusic">facebook page </a>(though I haven't posted for ages and it can't be trusted).</p> 
 <p>I'm switching up email stuff, but for now you can use willworthmusic at gmail dot com</p>
 
 <p>Here is a weird thing I wrote about myself in the third person which makes me feel weird.  I think it's fair to say it's more
