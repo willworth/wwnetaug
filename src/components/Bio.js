@@ -28,9 +28,8 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Will Worth</strong>, an English musician and writer who lives
-           and works in Alicante.{' '} <br></br>
-           Say 'Hi' on <a href="https://twitter.com/willworth">twitter </a>
-            <a href="http://www.instagram.com/will.worth">instagram</a>
+           (for now) in Alicante.{' '} <br></br>
+           Say 'Hi' on <a href="https://twitter.com/willworth">twitter</a>, <a href="http://www.instagram.com/will.worth">instagram </a>
              or <a href="https://www.facebook.com/willworthmusic">facebook</a>.
         </p>
       </div>

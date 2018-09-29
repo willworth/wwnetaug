@@ -3,4 +3,5 @@ title: Begin
 date: "2018-08-28T22:40:32.169Z"
 ---
 
-Testing the blog engine.  Here we go...
+"The problem is not to find the answer, it's to face the answer.”
+- Terence McKenna
