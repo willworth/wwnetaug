@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 const Footer = ({ siteTitle }) => (
   <div
     style={{
-      background: '#121113',
+      background: '#2a3d45',
     }}
   >
     <div
@@ -19,7 +19,7 @@ const Footer = ({ siteTitle }) => (
           to="/"
           style={{
               float: 'right',
-            color: 'white',
+            color: '#d8ddde',
             textDecoration: 'none',
           }}
         >
